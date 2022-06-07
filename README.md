@@ -6,7 +6,7 @@ Finally brushing up on this piece which I started as my fourth-year project. In 
 This is the overview of the UI
 
 
-![alt text](images/Main_UI.png)
+
 
 The project is divided into the following sections:
 1. Generating Training data/ Students pic and enrolling them in MongoDB database in all the collections(Hindi and English)_and a CSV file named Students Enrollment
